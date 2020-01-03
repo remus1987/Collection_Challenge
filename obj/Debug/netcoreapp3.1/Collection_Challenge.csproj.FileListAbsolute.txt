@@ -1,0 +1,11 @@
+C:\Users\Remus Iftimie\Personal_GitHub\Collection_Challenge\bin\Debug\netcoreapp3.1\Collection_Challenge.exe
+C:\Users\Remus Iftimie\Personal_GitHub\Collection_Challenge\bin\Debug\netcoreapp3.1\Collection_Challenge.deps.json
+C:\Users\Remus Iftimie\Personal_GitHub\Collection_Challenge\bin\Debug\netcoreapp3.1\Collection_Challenge.runtimeconfig.json
+C:\Users\Remus Iftimie\Personal_GitHub\Collection_Challenge\bin\Debug\netcoreapp3.1\Collection_Challenge.runtimeconfig.dev.json
+C:\Users\Remus Iftimie\Personal_GitHub\Collection_Challenge\bin\Debug\netcoreapp3.1\Collection_Challenge.dll
+C:\Users\Remus Iftimie\Personal_GitHub\Collection_Challenge\bin\Debug\netcoreapp3.1\Collection_Challenge.pdb
+C:\Users\Remus Iftimie\Personal_GitHub\Collection_Challenge\obj\Debug\netcoreapp3.1\Collection_Challenge.AssemblyInfoInputs.cache
+C:\Users\Remus Iftimie\Personal_GitHub\Collection_Challenge\obj\Debug\netcoreapp3.1\Collection_Challenge.AssemblyInfo.cs
+C:\Users\Remus Iftimie\Personal_GitHub\Collection_Challenge\obj\Debug\netcoreapp3.1\Collection_Challenge.dll
+C:\Users\Remus Iftimie\Personal_GitHub\Collection_Challenge\obj\Debug\netcoreapp3.1\Collection_Challenge.pdb
+C:\Users\Remus Iftimie\Personal_GitHub\Collection_Challenge\obj\Debug\netcoreapp3.1\Collection_Challenge.csprojAssemblyReference.cache
